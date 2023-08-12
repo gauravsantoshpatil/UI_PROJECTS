@@ -1,0 +1,130 @@
+body{
+    background-image: linear-gradient(to right,#fc5c7d,rgb(222, 122, 79), #6a82fb);
+    border: 3px solid black;
+    border-radius:30px;
+    height: 700px;
+}
+
+.top{
+    margin: 20px;
+    border:1px solid red;
+    height: 100px;
+    background-color: rgb(110, 116, 226);
+    margin-top: 20px;
+    margin-bottom: 40px ;
+    border-radius: 20px;
+}
+
+.main{
+   margin: 20px;
+    width: 1450px;
+    height: 360px;
+    border: 1px solid;
+    border-radius: 25px;
+    text-align: center;
+    background-color:rgb(194, 37, 76);
+}
+
+    #d-1 {
+        
+        font-size: 25px;
+        display: grid;
+        grid-template-columns: 150px 160px 200px 100px 120px;
+        gap:30px;
+        margin-left: 600px;
+        margin-top:-86px;
+    }
+    #d-1 a{
+       
+       padding: 12px;
+       text-decoration: none;
+       color:gold;
+       border: 1px solid gold;
+       background-color: black;
+     }
+ 
+
+
+img{
+ 
+    height:75px;
+    padding: 1rem;
+    border-radius:100px;
+    display: flex;
+    
+   
+}
+.d-2 {
+    display: grid;
+    margin: 30px;
+    padding-left: 95px;
+    padding-right: 54px;
+    padding-top: 45px;
+    height: 265px;
+    width:460px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: darkgoldenrod;
+}
+
+.d-2 a{
+    padding:12px;
+    text-decoration: none;
+    color:gold;
+    border: 1px solid gold;
+    background-color: black;
+    }
+
+#d-3{
+   text-decoration: none;
+    display:grid;
+    grid-template-rows: 50px 60px;
+    grid-template-columns: 230px 180px;
+    margin-right:1000px;
+    margin-top: 35px;
+    gap: 30px;
+    margin-bottom: 68px;
+    font-size: 30px;
+    justify-content: center;
+
+}
+
+.d-5{
+    margin-top: -300px;
+    margin-left: 640px;
+    height: 265px;
+    display:grid;
+    width: 620px;
+    border: 1px solid;
+    border-radius: 10px;
+    background-color: darkgoldenrod;
+    padding: 20px;
+}
+.foot{
+    height: 130px;
+    width: 1420px;
+    margin-top: 50px;
+    border: 1px solid;
+   background-color: lightsalmon;
+   margin-right: 8px;
+   margin-bottom: 30px;
+   
+}
+.foot .foot-1
+{
+
+   padding-left: 10px;
+    display: grid;
+    grid-template-columns: 70px 70px 70px 70px;
+    margin: 12px;
+    gap:70px;
+}
+
+.foot-2
+{
+    display: grid;
+    height: 70px;
+    margin: 12px;
+    margin-left:1290px;
+    margin-top: -130px;   
+}
