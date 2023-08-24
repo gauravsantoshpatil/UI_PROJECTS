@@ -1,0 +1,59 @@
+/*
+
+index 1 css
+*/
+.card img{
+    height: 220px;
+    width: 288px;
+   
+}
+
+    .card{
+        border: 1px solid gold;
+        margin: 10px;
+        height: 350px;
+        
+    }
+ .h-1{
+    background-image: url(./p-5.jpg);
+    height: 100vh;
+    
+    
+ }  
+ 
+ .card-title{
+    margin: 10px;
+    text-align: center;
+   color: darkgoldenrod;
+ }
+ .card-text{
+    padding: 7px;
+    color: #fff;
+ }
+ .btn{
+    color: rgb(243, 12, 12);
+    text-decoration: none;
+    margin-left: 90px;
+ }
+ .d-2{
+    margin-left: 35px;
+    margin-top: 30px;
+    display: grid;
+grid-template-columns: 200px 200px;
+    gap:100px;
+ }
+ h1{
+   font-size: 45px;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-style: oblique;
+   color: rgb(149, 186, 15);
+   margin-bottom: 30px;
+   margin-left: 350px;
+}
+.p-1{
+   font-size: 25px;
+   padding: 30px;
+   border-radius: 30px;
+   width: 520px;
+   height:auto;
+}
